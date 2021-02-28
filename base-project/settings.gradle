@@ -8,5 +8,3 @@
  */
 
 rootProject.name = 'base-project'
-include(':commons-lib')
-include(':base-project')
